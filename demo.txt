@@ -1,2 +1,3 @@
 tao demo voi git
 tao login-facebook
+tao logout-facebook
