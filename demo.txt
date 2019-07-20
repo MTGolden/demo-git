@@ -2,3 +2,4 @@ tao demo voi git
 tao login-facebook
 tao logout-facebook
 add release-1.1.0
+add hotfix-1.1.1
