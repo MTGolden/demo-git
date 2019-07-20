@@ -4,3 +4,4 @@ tao logout-facebook
 add release-1.1.0
 add hotfix-1.1.1
 add push len remote
+add push remote
